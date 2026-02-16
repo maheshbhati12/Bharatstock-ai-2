@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BharatStock AI Insight",
+  "description": "A professional-grade Indian stock market analysis tool that leverages Gemini AI and Google Search to provide deep insights, pros/cons analysis, price predictions, and order book behavior simulations for NSE and BSE stocks.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
